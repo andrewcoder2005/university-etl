@@ -1,0 +1,7 @@
+course_id,course_code,course_name,department,credit_points,level
+101,CS101,Introduction to Programming,Computer Science,6,Undergraduate
+102,CS201,Data Structures,Computer Science,6,Undergraduate
+103,BUS101,Principles of Management,Business,6,Undergraduate
+104,MTH101,Calculus I,Mathematics,6,Undergraduate
+105,DS501,Data Warehousing,Data Science,8,Postgraduate
+
